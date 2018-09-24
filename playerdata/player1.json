@@ -1,0 +1,46 @@
+{
+    "profile": {
+        "name": "player1"
+    },
+    "settings": {},
+    "songs": [
+        {
+            "title": "songtitle",
+            "easy": {
+                "score": 10000,
+                "perfec": 50,
+                "good": 40,
+                "bad": 10,
+                "miss": 50,
+                "modified": "2018/09/20/13:27"
+            },
+            "hard": {
+                "score": 10000,
+                "perfect": 50,
+                "good": 40,
+                "bad": 10,
+                "miss": 50,
+                "modified": "2018/09/20/13:27"
+            }
+        },
+        {
+            "title": "songtitle",
+            "easy": {
+                "score": 10000,
+                "perfect": 50,
+                "good": 40,
+                "bad": 10,
+                "miss": 50,
+                "modified": "2018/09/20/13:27"
+            },
+            "hard": {
+                "score": 10000,
+                "perfect": 50,
+                "good": 40,
+                "bad": 10,
+                "miss": 50,
+                "modified": "2018/09/20/13:27"
+            }
+        }
+    ]
+}
